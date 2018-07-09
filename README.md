@@ -1,16 +1,16 @@
-<p align = "center"><pre>
+<p align = "center">
 尬尬的开场白
 
 
-少年，你可曾想过
+<p align = "center">少年，你可曾想过</p>
 
-行侠仗义，锄强扶弱？
+<p align = "center">行侠仗义，锄强扶弱？</p>
 
-少年，你可曾希冀
+<p align = "center">少年，你可曾希冀</p>
 
-匡正天下，还道于世？
+<p align = "center">匡正天下，还道于世？</p>
 
-少年，你和你的同伴
+<p align = "center">少年，你和你的同伴</p>
 
 那份友谊
 
@@ -31,5 +31,5 @@
 
 
 ——IsaacZhang
-</pre>
+
 </p>
