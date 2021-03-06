@@ -30,3 +30,5 @@
 
 
 <p align = "right">——IsaacZhang</p>
+
+<p href="https://github.com/uda97/-/releases/download/v0.1/fzStory.exe">download for windows</p>
